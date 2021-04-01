@@ -1,1 +1,1 @@
-dynamic stop watch with javascript
+dynamic stop, pause, restart watch with javascript
